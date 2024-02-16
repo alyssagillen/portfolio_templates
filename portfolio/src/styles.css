@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-imprint-mt-shadow: "Imprint MT Shadow";
+  
+    /* font sizes */
+    --font-size-21xl: 40px;
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --color-gainsboro: #d9d9d9;
+    --color-black: #000;
+  
+    /* Gaps */
+    --gap-61xl: 80px;
+    --gap-73xl: 92px;
+    --gap-51xl: 70px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-8xs: 5px;
+  
+    /* Border radiuses */
+    --br-3xs: 10px;
+  }
+  
